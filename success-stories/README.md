@@ -6,7 +6,7 @@ Real stories from the Internet Governance community showing how engagement, advo
 
 ## 📖 Stories
 
-### **Building Kenya's First Youth IGF** | 2024
+### **Building Kenya's First Youth IGF** |November 2024
 **By:** Amina Said & Team | Kenya  
 **Category:** Community Building
 
@@ -18,27 +18,6 @@ After attending the global IGF, a group of young Kenyans recognized the need for
 
 ---
 
-### **From Fellow to Policy Influencer** | 2023
-**By:** Daniel Kojo | Ghana  
-**Category:** Policy Influence
-
-As an IGF Fellowship recipient, Daniel conducted research on data protection gaps in West Africa. His work caught the attention of Ghana's Data Protection Commission, leading to an invitation to contribute to national data governance guidelines. The research findings influenced three specific provisions in Ghana's updated data protection framework, particularly around youth data rights and consent mechanisms.
-
-**Key Takeaway:** Rigorous research + strategic relationship-building = real policy impact. Fellows should actively share their work with relevant policymakers.
-
-**Contact:** [Website](https://example.com/daniel)
-
----
-
-### **Connecting Women Across Borders** | 2023-2024
-**By:** Asia-Pacific Women in Cybersecurity Collective  
-**Category:** Capacity Building
-
-What started as an informal Signal group of 15 women working in cybersecurity policy across Asia-Pacific has grown into a 200+ member network. The collective now runs monthly knowledge-sharing sessions, maintains a job board, and has successfully advocated for increased women's representation at regional IGF events. In 2024, 40% of speakers at APrIGF were women, up from 22% in 2022.
-
-**Key Takeaway:** Informal networks can evolve into powerful advocacy platforms. Create the space first, structure can come later.
-
----
 
 ## ✍️ Share Your Story
 
