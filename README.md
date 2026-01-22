@@ -14,103 +14,111 @@ This is a community-driven collection of:
 
 Real stories from the Internet Governance community showing how engagement, advocacy, and collaboration create meaningful change.
 
+[**Browse Success Stories →**](success-stories/)
+
 ### What qualifies as a success story?
 
+Your story matters if you've:
 - Led or participated in a successful IG initiative (national IGF, policy advocacy, community project)
 - Influenced policy outcomes through IG participation
 - Built capacity in your community around digital rights, governance, or tech policy
 - Created lasting impact through fellowships, scholarships, or mentorship in IG spaces
 - Any experience that shows the power of participation in Internet Governance
 
+**Remember:** Success doesn't have to be huge! Small wins, local impact, and learning experiences all count.
+
 ### How to share your story
 
-1. **Navigate to the `success-stories` folder**
-2. **Click "Add file" → "Create new file"**
-3. **Name your file:** `your-name-year.md` (e.g., `jane-doe-2024.md`)
-4. **Copy this template:**
+**Step 1:** Navigate to the [`success-stories` folder](success-stories/) and click on the **README.md** file
+
+**Step 2:** Click the **pencil icon** (✏️ Edit this file) at the top right of the file
+
+**Step 3:** Scroll down to the **"📖 Stories"** section
+
+**Step 4:** Copy this template:
 
 ```markdown
-# [Your Name or Organization Name]
+### **[Title of Your Story]** | [Year]
+**By:** [Your Name / Organization Name] | [Country/Region]  
+**Category:** [Community Building / Policy Influence / Capacity Building / Youth Advocacy / Research Impact]
 
-**Year:** [Year of the success/impact]  
-**Location:** [Country/Region]  
-**Category:** [e.g., Youth Advocacy, Policy Influence, Community Building, Research Impact]
+[Tell your story in 3-5 sentences: What did you set out to do? What challenges did you face? What was the outcome? Who benefited?]
 
-## The Story
+**Key Takeaway:** [One actionable insight or lesson learned that others can apply]
 
-[Share your journey - what did you set out to do? What challenges did you face? What was the outcome?]
+**Contact (optional):** [LinkedIn/Website/Email]
 
-## Impact
-
-[What changed as a result? Who benefited? What did you learn?]
-
-## Key Takeaways
-
-- [Lesson or insight 1]
-- [Lesson or insight 2]
-- [Lesson or insight 3]
-
-## Contact (optional)
-
-- **Email:** [your@email.com]
-- **LinkedIn:** [your profile]
-- **Twitter/X:** [@yourhandle]
+---
 ```
 
-5. **Scroll down and click "Commit changes"**
+**Step 5:** Paste the template at the **end** of the Stories section (add newest stories at the bottom)
+
+**Step 6:** Fill in your information - be specific about outcomes and honest about challenges!
+
+**Step 7:** Scroll to the bottom and click **"Commit changes"**
+
+**Step 8:** Add a brief commit message like "Added [Your Name]'s success story" and click **"Commit changes"** again
+
+✅ Done! Your story will appear in the repository and inspire others.
+
+### Tips for writing a great success story
+
+- **Be specific:** Include numbers, outcomes, or concrete changes
+- **Show the journey:** What challenges did you face? How did you overcome them?
+- **Make it actionable:** What can others learn from your experience?
+- **Keep it brief:** 3-5 sentences for the main story is perfect
 
 ---
 
 ## 📇 Youth IGF Speaker Bank
 
-A directory of young professionals, advocates, and experts available to speak at Internet Governance events, panels, and workshops.
+A living directory of young professionals, advocates, and experts available to speak at Internet Governance events, panels, and workshops.
+
+[**Browse Speakers →**](speaker-bank/)
 
 ### Who should add themselves?
 
 - Youth (typically under 35) active in IG spaces
 - Interested in speaking at IGF events, policy forums, or community gatherings
-- Have expertise or lived experience to share in areas like digital rights, cybersecurity, internet infrastructure, tech policy, etc.
+- Have expertise or lived experience to share in areas like digital rights, cybersecurity, internet infrastructure, tech policy, and more
 
-### How to add yourself
+Whether you're a seasoned speaker or just starting out, add yourself!
 
-1. **Navigate to the `speaker-bank` folder**
-2. **Click "Add file" → "Create new file"**
-3. **Name your file:** `firstname-lastname.md` (e.g., `jane-doe.md`)
-4. **Copy this template:**
+### How to join the speaker bank
+
+**Step 1:** Navigate to the [`speaker-bank` folder](speaker-bank/) and click on the **README.md** file
+
+**Step 2:** Click the **pencil icon** (✏️ Edit this file) at the top right of the file
+
+**Step 3:** Scroll down to the **"📋 Speakers"** section
+
+**Step 4:** Copy this template:
 
 ```markdown
-# [Your Full Name]
-
-**Location:** [Country/City]  
-**Languages:** [Languages you can present in]  
-**Availability:** [Virtual / In-person / Both]
-
-## Expertise & Topics
-
-[List 3-5 topics you're comfortable speaking about, e.g.:]
-- Digital rights and privacy
-- Youth engagement in internet governance
-- Cybersecurity policy
-- AI ethics and governance
-- Community network initiatives
-
-## Experience
-
-[Brief background - where have you spoken before? What roles have you held in IG spaces? Keep it to 2-3 sentences]
-
-## Past Speaking Engagements (if any)
-
-- [Event name, year]
-- [Event name, year]
-
-## Contact
-
-- **Email:** [your@email.com]
-- **LinkedIn:** [your LinkedIn profile]
-- **Website/Portfolio:** [if applicable]
+### **[Your Full Name]** | [Country]
+- **Topics of Expertise:** [Topic 1, Topic 2, Topic 3]
+- **Languages:** [Language 1, Language 2]
+- **Available For:** [Speaking, Panels, Moderation, Training, Mentorship, etc.]
+- **Link:** [LinkedIn/Website/Profile URL]
 ```
 
-5. **Scroll down and click "Commit changes"**
+**Step 5:** Find your spot **in alphabetical order by first name** and paste the template
+
+**Step 6:** Fill in your information:
+- List 3-5 specific topics you're comfortable speaking about
+- Include all languages you can present in
+- Be clear about what formats you're available for
+- Add a link to your LinkedIn, website, or professional profile
+
+**Step 7:** Scroll to the bottom and click **"Commit changes"**
+
+**Step 8:** Add a brief commit message like "Added [Your Name] to speaker bank" and click **"Commit changes"** again
+
+✅ Done! Event organizers can now find and contact you.
+
+### For event organizers
+
+Looking for a speaker? [Browse the speaker bank](speaker-bank/) and reach out directly via the provided links. You can also open a GitHub Issue if you need help finding someone with specific expertise or language requirements.
 
 ---
 
@@ -119,14 +127,20 @@ A directory of young professionals, advocates, and experts available to speak at
 We welcome contributions from anyone in the Internet Governance community!
 
 **Ways to contribute:**
-- Share your own success story
-- Add yourself to the speaker bank
-- Nominate someone else's success story (with their permission)
-- Suggest improvements to templates or organization
+- 📖 Share your own success story
+- 🎤 Add yourself to the speaker bank
+- 💡 Suggest improvements by opening a GitHub Issue
+- 🔧 Help maintain and organize content
 
-**Not sure how GitHub works?** No worries! You can also:
-- Email your story or speaker profile to lilybotsyoe@gmail.com
-- Open a GitHub Issue with your content and we'll add it for you
+**Not comfortable with GitHub?** No problem! You can:
+- Email your story or speaker profile to **[YOUR EMAIL HERE]** and we'll add it for you
+- Open a GitHub Issue with your content and tag it "help wanted"
+- Reach out to the maintainers for guidance
+
+**First time using GitHub?** 
+- Don't worry! The instructions above walk you through every step
+- You can't break anything - we can always undo changes if needed
+- Ask questions by opening an Issue - we're here to help!
 
 ---
 
