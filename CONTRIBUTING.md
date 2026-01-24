@@ -261,7 +261,7 @@ We welcome contributions from anyone in the Internet Governance community!
 - 🔧 Help maintain and organize content
 
 **Not comfortable with GitHub?** No problem! You can:
-- Email your story or speaker profile to **[YOUR EMAIL HERE]** and we'll add it for you
+- Email your story or speaker profile to **lilybotsyoe@gmail.com** and we'll add it for you
 - Open a GitHub Issue with your content and tag it "help wanted"
 - Reach out to the maintainers for guidance
 
