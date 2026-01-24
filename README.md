@@ -59,6 +59,7 @@ Reports, outcome documents, and key takeaways from Youth IGF events and national
 ## 🤝 Contributing
 
 We welcome contributions from anyone in the Internet Governance community!
+Kindly review our [Contribution Guidelines](CONTRIBUTING.md).
 
 **Ways to contribute:**
 - 📖 Share your own success story
