@@ -5,6 +5,32 @@ Resources to enhance your knowledge. Templates, guides, and real examples to hel
 Whether you're planning your first Youth IGF or looking to strengthen an existing initiative, this toolkit provides practical resources from communities around the world.
 
 ---
+## 📖 Understanding Internet Governance
+
+- **[Internet Society Internet Governance Online Course](https://www.internetsociety.org/learning/internet-governance/)** 🌍 **Region:** Global (Online)  
+  ✅ **Opened:** Yes (Registration opens Jan 12, 2026)  
+  🎓 **Type:** Moderated course  
+  ⏱️ **Duration:** 4 weeks
+  🗣️ **Available in:** English, French, Spanish and Arabic
+
+- **[Internet Society Internet Governance Program](https://www.internetsociety.org/our-work/internet-governance/)** 🌍 **Region:** Global  
+  ✅ **Opened:** Yes (Ongoing advocacy and events)    
+  🎓 **Type:** Advocacy, policy development, and capacity building  
+  ⏱️ **Duration:** Continuous  
+  🗣️ **Available in:** English, French, Spanish, and Arabic  
+
+- **[IGF ABCs for Newbies](https://ycigweb.wordpress.com/igf-abcs-for-newbies/)** 🌍 **Region:** Global  
+  ✅ **Opened:** Yes (Open resource)  
+  🎓 **Type:** Newcomer's Guide & Advocacy  
+  ⏱️ **Duration:** Self-paced resource  
+  🗣️ **Focus:** Internet governance fundamentals, youth participation, and navigating the IGF  
+
+- **[Internet Governance Course Introduction (Video)](https://vimeo.com/1153722170/f9b5d87f3c?fl=pl&fe=ti)** 🌍 **Region:** Global  
+  ✅ **Opened:** Yes (Open access video)  
+  🎓 **Type:** Course Overview / Introductory Lecture  
+  ⏱️ **Duration:** ~1:20 minutes  
+  🗣️ **Available in:** English  
+
 
 ## 📖 Step-by-Step Guides
 
@@ -54,18 +80,6 @@ Real-world account of launching a national Youth IGF with limited resources, inc
 
 ---
 
-## 💰 Fundraising & Grant Resources
-
-### Sample Grant Application for Youth IGF Events
-**Type:** Template  
-**From:** Latin America & Caribbean Youth IGF  
-**Year:** 2023
-
-Successful grant application template that secured funding for regional Youth IGF, including budget justification and impact metrics.
-
-**Link:** [Template URL]
-
----
 
 ## 🤝 Engagement & Outreach
 
