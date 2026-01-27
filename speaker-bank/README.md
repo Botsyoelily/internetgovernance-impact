@@ -25,6 +25,7 @@ A directory of experts available for collaboration, speaking engagements, and po
 | **Einstein Kofi Ntim** | London | AI + Space, Governance | English | Panels, Moderation | [LinkedIn](https://www.linkedin.com/in/einsteinntim/) |
 | **Antonia Dumitriu** | Italy | AI + Fashion | English, Italian | Panels, Moderation | [LinkedIn](https://www.linkedin.com/in/antoniadumitriu/) |
 | **Gloria Frimpomaah Amofah-Adjekum** | Ghana | Online Safety, Digital Well-being, Youth Mentorship, Digital Literacy | English | Lightning Talks, Panels, Moderation, Workshops | [LinkedIn](https://www.linkedin.com/in/gloria-amofah-adjekum) |
+| **Kateryna Bovsunovska** | Ukraine, Italy | nteroperability, Digital Public Services & Digital Transformation, Digital Warfare, Digital Human Rights, Youth Engagement in South Eastern Europe| English, Ukrainian  | Speaking on Panels, Moderating Panels, Research, Support Selection Processes | [LinkedIn](https://www.linkedin.com/in/kateryna-bovsunovska/) |
 
 ---
 
